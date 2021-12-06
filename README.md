@@ -1,6 +1,7 @@
 # Hi everyone, I'm Herry Tran (Tran Bao Minh).
 # I'm a Coder and a Developer.
-  <h3>ABOUT ME:<br/></h3>
+<link rel="stylesheet" type="text/css" href="main.css">
+<h3>  ABOUT ME:<br/></h3>
 <span>
   <ul>
     <li>I'm 12 years old.<br/></li>
