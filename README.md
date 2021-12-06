@@ -1,5 +1,5 @@
-# Hi everyone, I'm Herry Tran (Tran Bao Minh)
-# I'm a coder
+# Hi everyone, I'm Herry Tran (Tran Bao Minh).
+# I'm a Coder and a Developer.
   <h3>ABOUT ME:<br/></h3>
 <span>
   <ul>
