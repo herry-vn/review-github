@@ -1,2 +1,2 @@
-# review-github
-Hi everyone, I'm Herry Tran (Tran Bao Minh)
+# Hi everyone, I'm Herry Tran (Tran Bao Minh)
+# I'm a coder
